@@ -24,7 +24,7 @@ As casas do labirinto são codificadas na seguinte forma:
 
 Assim, a imagem a seguir prove um exemplo de entrada válida
 
-![Entrada]("/img/Entrada.jpg")
+![Entrada](/img/Entrada.PNG)
 Imagem 1
 
 Temos uma entrada de três labirintos 7x7 cada um.
@@ -72,11 +72,11 @@ Temos uma entrada de três labirintos 7x7 cada um.
 
 Usando a mesma entrada da imagem 1:
 
-![Entrada]("/img/Entrada.jpg")
+![Entrada](/img/Entrada.PNG)
 
 O programa mostrará o estado final dos labirintos assim como informações importantes.
 
-![Saída]("/img/Saída.jpg")
+![Saída](/img/Saída.PNG)
 
 No exemplo acima, o garoto infelizmente não conseguiu completar a sua missão pois o mesmo perdeu todas suas vidas, logo após avisar sobre sua derrota, foi listado abaixo todos os dados de sua jornada como as casas percorridas, os itens coletados pelo caminho, as casas não exploradas e os perigos enfrentados.
 
